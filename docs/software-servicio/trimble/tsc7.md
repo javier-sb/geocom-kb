@@ -4,6 +4,10 @@ Software de diagnóstico utilizado para verificar el correcto funcionamiento de 
 
 ## Ejecución
 
+Luego de obtener el Service File USB desde Atlas, extraer el `.zip` y dirigirse a la carpeta `SystemTest`
+
+![SystemTest directory](../../assets/software-tsc7/system-test.png){ .center-img }
+
 Iniciar el software mediante:
 
 ```bat
