@@ -26,6 +26,13 @@ nav:
   - Inicio: index.md
   - Conceptos:
       - Constelaciones GNSS: conceptos/gnss/constelaciones.md
+  - Software de Servicio:
+      - DJI:
+          - M400: software-servicio/dji/m400.md
+          - Matrice 4E/T: software-servicio/dji/matrice4.md
+          - Mavic 3E/T: software-servicio/dji/mavic3.md
+      - Trimble:
+          - TSC7: software-servicio/trimble/tsc7.md
   - Ingenieria Inversa:
       - DJI:
           - Phantom 4 RTK:
