@@ -52,4 +52,5 @@ nav:
       - Trimble:
           - SX12:
               - SX12 no conecta por Wi-Fi después de actualizar a firmware S2.8.x: diagnosticos/trimble/sx12/sx12-falla-conexion-wifi.md
-              
+          - TDL450H:
+              - Puerto LEMO 5 con pin superior quemado: diagnosticos/trimble/tdl450h/tdl450h-lemo5.md
