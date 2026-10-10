@@ -49,6 +49,8 @@ nav:
       - DJI:
           - Matrice 4 Enterprise:
               - Diagnóstico de Falla ESC 3: diagnosticos/dji/matrice4e/matrice4e-esc3.md
+          - Matrice 350 RTK Enterprise:
+              - Diagnóstico de Falla ESC y Hardware de Propulsión: diagnosticos/dji/m350e/m350e-esc-y-hw-prop.md
       - Trimble:
           - SX12:
               - SX12 no conecta por Wi-Fi después de actualizar a firmware S2.8.x: diagnosticos/trimble/sx12/sx12-falla-conexion-wifi.md
